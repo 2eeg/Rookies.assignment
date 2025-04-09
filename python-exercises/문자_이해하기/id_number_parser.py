@@ -1,5 +1,3 @@
-# File: /python-exercises/python-exercises/문자_이해하기/id_number_parser.py
-
 id_number = "901212-1234567"
 year = "19" + id_number[:2]
 month = id_number[2:4]

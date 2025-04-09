@@ -1,5 +1,3 @@
-# File: /python-exercises/python-exercises/변수와_숫자/time_converter.py
-
 total_seconds = 12345
 
 hours = total_seconds // 3600

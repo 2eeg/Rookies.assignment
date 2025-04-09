@@ -1,5 +1,3 @@
-# money_divide.py
-
 total_money = 10000
 people = 3
 

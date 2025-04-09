@@ -1,9 +1,6 @@
-# email_validator.py
-
 def is_valid_email(email):
     return "@" in email and "." in email
 
-# Test the email validator
 email_addresses = ["user@example.com", "user@example", "user@.com", "example.com"]
 
 for email in email_addresses:
